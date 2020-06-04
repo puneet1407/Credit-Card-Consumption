@@ -1,1 +1,2 @@
-# Credit Card Consumption
+# amexcreditcardconsumption
+Credit Card Consumption project
